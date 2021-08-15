@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Keshawthecashew
 - 👀 I’m interested in Computers and Maths of noobs.
 - 🌱 I’m currently learning 
-- 💞️ I’m looking to collaborate on Latex
 - 📫 How to reach me ...
 
 <!---
